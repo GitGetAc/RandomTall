@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\bin\Debug\net7.0\GjettNummer.exe
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\bin\Debug\net7.0\GjettNummer.deps.json
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\bin\Debug\net7.0\GjettNummer.runtimeconfig.json
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\bin\Debug\net7.0\GjettNummer.dll
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\bin\Debug\net7.0\GjettNummer.pdb
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\GjettNummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\GjettNummer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\GjettNummer.AssemblyInfo.cs
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\GjettNummer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\GjettNummer.dll
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\refint\GjettNummer.dll
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\GjettNummer.pdb
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\GjettNummer.genruntimeconfig.cache
+C:\Users\Admin\Documents\Min\Fontos\Munka\GetAcademy\GitTestRepo\CSharpMoodle2\GjettNummer\obj\Debug\net7.0\ref\GjettNummer.dll
